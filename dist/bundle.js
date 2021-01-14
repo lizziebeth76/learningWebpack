@@ -1,0 +1,1 @@
+(()=>{var r={48:r=>{function e(){document.querySelector("#greeting").innerHTML="<h1> hello world </h1>"}e(),r.exports=e()}},e={};!function t(o){if(e[o])return e[o].exports;var n=e[o]={exports:{}};return r[o](n,n.exports,t),n.exports}(48)})();
